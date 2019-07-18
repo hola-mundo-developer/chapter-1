@@ -11,7 +11,7 @@ use PHPUnit\Framework\TestCase;
 class ColorTest extends TestCase
 {
     /** @var string */
-    private const HEXADECIMAL_STUB = '28aa46';
+    private const HEXADECIMAL_STUB = '28AA46';
     /** @var int[] */
     private const RGB_STUB = [40, 170, 70];
 

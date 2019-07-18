@@ -13,5 +13,5 @@ make install # Install PHP dependencies with composer
 ```sh
 make tests # Run all tests
 
-make test ARG="{{class_name}}::{{method_name}}" # Run specific test
+make test ARGS="{{class_name}}::{{method_name}}" # Run specific test
 ```
